@@ -1,6 +1,6 @@
 # Flight Dealer
 
-A Cheap Flight Alert program sends you a SMS to notify cheap flights in next 8 months.
+A Cheap Flight Alert program sends you a SMS to notify cheap flights (return) in next 6 months.
 
 <p align="center">
   <img src="https://i.ibb.co/k5D0rky/flight-dealer.png" alt="flightdealer"/>
