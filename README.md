@@ -36,6 +36,15 @@ It will search all destinations and detect which one is the lowest price and sen
 
 Check out the link below for more details about API sources.
 
+# Description
+
+To run your program on the cloud follow these instructions below.
+
+* Head over to [Pythonanywhere.com](https://www.pythonanywhere.com) and go ahead to sign up for a new account.
+* Now, once you've signed up and signed in then go ahead to add files section.
+* We're going to upload files here. Choose the files from your directory and add here. 
+* Go to create Bash console and type ```python3 main.py ```
+* And your program will run in the background constantly.
 
 # Documentations
 
